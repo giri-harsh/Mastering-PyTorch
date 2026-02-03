@@ -1,0 +1,51 @@
+# -----------------------------
+# Ignore EVERYTHING outside repo
+# -----------------------------
+../
+../../
+../../../
+
+# -----------------------------
+# Explicitly ignore listed junk
+# -----------------------------
+
+# Course / practice folders
+AI ML/
+Data Science/
+Fast API/
+G4G cource/
+Internship/
+Project/
+Sub-Topics/
+Test Data/
+dump/
+rand/
+
+# Language / library practice
+Keras/
+Matplot lib/
+Numpy/
+Pandas/
+Plotly/
+Scikit Learn/
+
+# Git / tooling junk
+!Git Repo/
+.cph/
+tempCodeRunnerFile.python
+
+# Video / learning material
+Daniel Bourke (One day vid) corrupt/
+Daniel_one_day_vid/
+learn w project/
+
+# Specific files
+Fashion-ANN-optimised.ipynb
+Fashion-CNN.ipynb
+*.zip
+*.csv
+
+# Python / Jupyter noise
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
